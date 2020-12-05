@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on offical SHE GCEK Website🥳
+- 🔭 I’m currently working on offical ROBOCEK Website🥳
 - 🌱 I’m currently learning node.js🤯
 - ⚡ Fun fact: I love singing👩‍🎤 and dancing💃
 
