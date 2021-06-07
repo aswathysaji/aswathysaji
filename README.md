@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on offical ROBOCEK Website🥳
+- 🔭 I’m currently working as a student intern at Deepflow Technologies🥳
 - 🌱 I’m currently learning React.js🤯
 - ⚡ Fun fact: I love singing👩‍🎤 and dancing💃
 
