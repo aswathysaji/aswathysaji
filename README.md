@@ -8,6 +8,6 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working as a student intern at Deepflow Technologies🥳
-- 🌱 I’m currently learning React.js🤯
+- 🌱 I’m currently learning Vue.js🤯
 - ⚡ Fun fact: I love singing👩‍🎤 and dancing💃
 
