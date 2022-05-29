@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working as a project intern at Deepflow Technologies🥳
-- 🌱 I’m currently learning Vue.js🤯
-- ⚡ Fun fact: I love singing👩‍🎤 and dancing💃
+** - 🔭 I’m currently working as a project intern at Deepflow Technologies🥳
+** - 🌱 I’m currently learning Vue.js🤯
+** - ⚡ Fun fact: I love singing👩‍🎤 and dancing💃
 
